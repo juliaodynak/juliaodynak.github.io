@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "J2UNKSFBGL.com.example.universallinkstest",
+				"paths": [ "*"]
+			}
+		]
+	}
+}
