@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appIDs": ["J2UNKSFBGL.com.example.universallinkstest", "4PCWS6AA74.com.good.gd.example.appkinetics", "A57CB456B8.com.good.gcs.g3.enterprises"],
+				"appIDs": ["J2UNKSFBGL.com.example.universallinkstest", "4PCWS6AA74.com.good.gd.example.keymanager", "S99QSEYL6F.com.good.gd.example.keymanager"],
 				"paths": [ "*"]
 			}
 		]
